@@ -8,13 +8,11 @@ Learn to create reusable component with ReactJS.
 - ReactJS
 
 In the project directory, open terminal and run:
-
-### `npm install`
+`npm install`
 
 to install all dependencies.
 
 Then, in the terminal run:
-
-### `npm start`
+`npm start`
 
 to start the application.
